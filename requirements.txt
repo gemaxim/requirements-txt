@@ -1,3 +1,4 @@
 appdata==2.1.2
 click==8.0.3
 colored==1.4.3
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
